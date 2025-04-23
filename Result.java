@@ -1,8 +1,6 @@
-
 interface Student {
     void showAcademicScore();
 }
-
 
 interface Sports {
     void showSportsScore();
